@@ -1,0 +1,17 @@
+.HP{
+    background-image: url("src/assets/img/34+ Birthday Cakes That Will Bake Your Day Unbelievably Special - TheFab20s.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: auto;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Hand:wght@400..700&display=swap');
+
+.HappyBRTH{
+    font-family: "Edu AU VIC WA NT Hand", cursive;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  }
